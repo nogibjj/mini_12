@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/tinayiluo_mini_12/tinayiluo_mini_12/mlruns/0/945ccd00ae924f44bdbc4d0ae44fb1b6/artifacts
+end_time: 1700451609685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 945ccd00ae924f44bdbc4d0ae44fb1b6
+run_name: ambitious-snipe-872
+run_uuid: 945ccd00ae924f44bdbc4d0ae44fb1b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700451607806
+status: 3
+tags: []
+user_id: runner
