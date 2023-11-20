@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/tinayiluo_mini_12/tinayiluo_mini_12/mlruns/0/e6af4877a9974efc930966229fab2a0b/artifacts
+end_time: 1700452165295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6af4877a9974efc930966229fab2a0b
+run_name: nebulous-grub-600
+run_uuid: e6af4877a9974efc930966229fab2a0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700452163507
+status: 3
+tags: []
+user_id: runner
